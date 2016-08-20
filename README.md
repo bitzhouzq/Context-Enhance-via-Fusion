@@ -6,10 +6,9 @@ GFCE.m ----- an implementation of the GFCE through fusion of infrared and visibl
 HMSD_GF.m ----- an implementation of the HMSD fusion method based on the guided filter (HMSD-GF)
 
 
-Ref: 1.  Zhiqiang Zhou et al. "Fusion of infrared and visible images for night-vision context  
+Ref: 1. Zhiqiang Zhou et al. "Fusion of infrared and visible images for night-vision context  
             enhancement", Applied Optics, 55(23), 2016
-            
-     2.  Zhiqiang Zhou et al. "Perceptual fusion of infrared and visible images through a hybrid
-         multi-scale decomposition with Gaussian and bilateral filters, Information Fusion, 30, 2016
+     2. Zhiqiang Zhou et al. "Perceptual fusion of infrared and visible images through a hybrid
+        multi-scale decomposition with Gaussian and bilateral filters, Information Fusion, 30, 2016
     
-NOTE: The HMSD (Hybrid-MSD) fusion method was formely proposed in Ref [2].  
+NOTE: The HMSD (Hybrid-MSD) fusion method was originally proposed in Ref [2].  
