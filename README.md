@@ -5,7 +5,7 @@ GFCE.m ----- an implementation of the GFCE through fusion of infrared and visibl
 
 HMSD_GF.m ----- an implementation of the HMSD fusion method based on the guided filter (HMSD-GF)
 
-
+If you use the codes, please cite the papers as follows:
 Ref: 1. Zhiqiang Zhou et al. "Fusion of infrared and visible images for night-vision context  
             enhancement", Applied Optics, 55(23), 2016
             
