@@ -3,7 +3,7 @@
 %    Ref: "Fusion of infrared and visible images for night-vision context 
 %    enhancement", Applied Optics, 55(23), 2016
 %    
-%    The HMSD (Hybrid-MSD) fusion method was formely proposed in:
+%    The HMSD (Hybrid-MSD) fusion method was originally proposed in:
 %    Zhiqiang Zhou et al. "Perceptual fusion of infrared and visible images through a hybrid 
 %    multi-scale decomposition with Gaussian and bilateral filters", Information Fusion, 30, 2016 
 %    
