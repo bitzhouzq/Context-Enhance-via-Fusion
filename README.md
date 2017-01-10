@@ -1,7 +1,7 @@
 Fusion of infrared and visible images for night-vision context enhancement
 
 Find the files GFCE.m and HMSD_GF.m in the folder "Context_Enhance_via_Fusion" to implement 
-the proposed methods
+the proposed algorithms
 
 GFCE.m ----- an implementation of the GFCE through fusion of infrared and visible images.
 
